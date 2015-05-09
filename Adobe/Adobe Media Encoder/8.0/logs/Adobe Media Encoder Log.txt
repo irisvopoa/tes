@@ -1,0 +1,43 @@
+Log file created: Fri Mar 27 15:13:03 2015
+-------------------------------------------
+Ticks = 12      <140735092806400> <AMEApp> <1> AMEVersion file not found.
+Ticks = 13      <140735092806400> <DynamicLink> <5> Attempting to launch dynamiclinkmanager
+Ticks = 13      <140735092806400> <DynamicLink> <5> /Applications/Adobe Media Encoder CC 2014/Adobe Media Encoder CC 2014.app/Contents/dynamiclinkmanager.app
+Ticks = 1302      <140735092806400> <AMEApp> <0> Time taken to load MediaCore plugins: 21007.3 milliseconds.
+Ticks = 1320      <140735092806400> <AMEApp> <1> Entering RunEventLoop
+Ticks = 1426      <4487045120> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value does not match HRD model. Should be 1874976 bytes.
+Ticks = 1426      <4487045120> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value adjusted to the HRD model
+Ticks = 1426      <4487045120> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value does not match HRD model. Should be 1874976 bytes.
+Ticks = 1426      <4487045120> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value adjusted to the HRD model
+Ticks = 1426      <4487045120> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value does not match HRD model. Should be 1874976 bytes.
+Ticks = 1426      <4487045120> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value adjusted to the HRD model
+Ticks = 1426      <4487045120> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value does not match HRD model. Should be 1874976 bytes.
+Ticks = 1426      <4487045120> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value adjusted to the HRD model
+Ticks = 1510      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 4999936 bits per second.
+Ticks = 1510      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1510      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 4999936 bits per second.
+Ticks = 1510      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1511      <5158121472> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 4999936 bits per second.
+Ticks = 1511      <5158121472> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1511      <5158121472> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 4999936 bits per second.
+Ticks = 1511      <5158121472> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1512      <4653498368> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 9999872 bits per second.
+Ticks = 1512      <4653498368> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1513      <4653498368> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 9999872 bits per second.
+Ticks = 1513      <4653498368> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1514      <4621008896> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 19999744 bits per second.
+Ticks = 1514      <4621008896> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1514      <4621008896> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 19999744 bits per second.
+Ticks = 1514      <4621008896> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1520      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 39999488 bits per second.
+Ticks = 1520      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1520      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value does not match HRD model. Should be 7499904 bytes.
+Ticks = 1520      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value adjusted to the HRD model
+Ticks = 1520      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value does not match HRD model. Should be 39999488 bits per second.
+Ticks = 1520      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C043:H.264 Validation Warning: bit rate value adjusted to the HRD model
+Ticks = 1520      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value does not match HRD model. Should be 7499904 bytes.
+Ticks = 1520      <4486508544> <ExporterMPEGPreview> <1> Warn_printf: C044:H.264 Validation Warning: bit rate buffer size value adjusted to the HRD model
+Ticks = 1977      <140735092806400> <AMEApp> <1> Exited RunEventLoop
+-------------------------------------------
+Log file closed: Fri Mar 27 15:13:36 2015
+

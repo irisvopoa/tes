@@ -1,0 +1,23 @@
+--- OpenGL Info ---
+Vendor: Intel Inc.
+Renderer: Intel Iris Pro OpenGL Engine
+OpenGL Version: 2.1 INTEL-10.2.46
+GLSL Version: 1.20
+Monitors: 1
+Monitor 0 properties -
+   Size: (0, 0, 1440, 900)
+   Max texture size: 16384
+   Supports non-power of two: 1
+   Shaders 444: 1
+   Shaders 422: 1
+   Shaders 420: 1
+
+
+--- GPU Computation Info ---
+Found 1 devices supporting GPU computation.
+OpenCL Device 0 - 
+   Name: Iris Pro
+   Vendor: Intel (Apple platform)
+   Capability: 1.2
+   Driver: 1.2
+   Total Video Memory: 1536MB

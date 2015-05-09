@@ -1,0 +1,47 @@
+2015-03-27 [ Build 8.2x51 / 2014-12-10 ]
+Machine:   MacBook-Pro-00.local in domain 
+User:      student
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: Intel(R) Core(TM) i7-4770HQ CPU @ 2.20GHz
+           Model: 70, Family: 6, Stepping: 1 
+           Total Threads: 8
+           Features: MMX SSE SSE2 SSE3 SSSE3 SSE4.1 SSE4.2 AES AVX AVX2 FMA F16C POPCNT RDTSCP RDRAND
+Base path: /Applications/Adobe SpeedGrade CC 2014/Adobe SpeedGrade CC 2014.app/Contents/MacOS/
+Arguments: "/Applications/Adobe SpeedGrade CC 2014/Adobe SpeedGrade CC 2014.app/Contents/MacOS/sgmacosx"
+
+15:18:00 [IrLog]           LogFile initialized
+15:18:00 [GlobalSettings]  Loading user settings from /Users/student/Documents/Adobe/SpeedGrade/8.0/settings/User_Settings.xml
+15:18:00 [GlobalSettings]  Failed to load user settings, using default values.
+15:18:00 [DISystem]        Initializing DI System Application Object...
+15:18:00 [DISystem]        Adobe SpeedGrade CC 2014
+15:18:00 [AMTModule]       Initializing
+15:18:00 [AMTModule]       Starting background task
+15:18:00 [AMTModule]       Background task running
+15:18:00 [IrOS]            Resources loaded from /Applications/Adobe SpeedGrade CC 2014/Adobe SpeedGrade CC 2014.app/Contents/MacOS/resources/Resources.irf
+15:18:00 [IrOS]            Possible locales: 27 licensed, 10 effective 
+15:18:00 [IrOS]            Localized string table en_US loaded successfully
+15:18:00 [OpenGL]          Initializing OpenGL...
+15:18:00 [OpenGL]          Vendor: Intel Inc.
+15:18:00 [OpenGL]          Renderer: Intel Iris Pro OpenGL Engine
+15:18:00 [OpenGL]          Version: 2.1 INTEL-10.2.46
+15:18:00 [SoundSubsystem]  Successfully initialized sound subsystem.
+15:18:00 [SoundSubsystem]  2 Sound driver(s) available
+15:18:01 [AMTModule]       Entering idle state
+15:18:01 [AMTModule]       Background task has finished
+15:18:10 [Headlights]      Initializing APIP...
+15:18:10 [Headlights]      APIP inactive and in activated mode
+15:18:10 [Localization]    Format string mismatch in: $$$/Settings/About/Labels/Release
+15:18:13 [IrOS]            Cleaning up and exiting sanely....
+15:18:14 [AMTModule]       Shutting down
+15:18:14 [OGLExtensions]   OpenGL extensions queried (in no particular order):
+15:18:14 [OGLExtensions]     GL_NV_texture_rectangle: unsupported
+15:18:14 [OGLExtensions]     GL_EXT_pixel_buffer_object: unsupported
+15:18:14 [OGLExtensions]     GL_ARB_pixel_buffer_object: supported
+15:18:14 [OGLExtensions]     GL_ARB_fragment_program: supported
+15:18:14 [OGLExtensions]     GL_EXT_texture_rectangle: supported
+15:18:14 [GlobalSettings]  Last object UID: 0x00000600
+15:18:14 [IrLog]           Closing log file
+
+03/27/15
